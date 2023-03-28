@@ -4,4 +4,4 @@
 
 ### -Doğa Gerçek/21967497  -Tunahan Çetin/   - Nusret Taha/   -Fatma Burcu Arslan/
 
-!(https://cdn.discordapp.com/attachments/883148578506305616/1090298096996601856/Map_of_Earthquake.png)
+!(https://lh3.googleusercontent.com/tgwSgSIoZJcFgUg2AbG_FEqqvk_KdSmDXdwgr_dr2D53jlvr46WcQ8Q7tGu-w3ok1prkVZNILSdWLl9UVrPM9sv325AxvSwzAcTz7bU8Fg)
