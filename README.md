@@ -4,5 +4,5 @@
 
 ### -Doğa Gerçek/21967497  -Tunahan Çetin/   - Nusret Taha/   -Fatma Burcu Arslan/
 
-![Map of Earthquake](https://user-images.githubusercontent.com/120742291/228292226-5667dfee-4843-4f41-96d5-f2433119c716.png)
+
 
