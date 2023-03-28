@@ -2,7 +2,7 @@
 
 ## Project of Establishment of Mobile GSMs to Mitigate the Effects of the 6 February Earthquake.
 
-### -Doğa Gerçek/21967497  -Tunahan Çetin/   - Nusret Taha/   -Fatma Burcu Arslan/
+### -Doğa Gerçek/21967497    -Tunahan Çetin/    - Nusret Taha/    -Fatma Burcu Arslan/
 
 
 
