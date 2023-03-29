@@ -49,4 +49,4 @@ The main objectives of the project are:
 ![Map of Earthquake](https://user-images.githubusercontent.com/120742291/228494795-8f48bd88-d199-47c5-b512-7a0e9781d048.png)
 
 **Map Produced by Nusret Taha Ege:**
-![Map of Mobile Cell Towers in Hatay (After Eathquake)png](https://user-images.githubusercontent.com/120680467/228600907-c694463e-1b04-41ca-8c0f-bc5f8e38123d.png)
+![Map of Mobile Cell Towers in Hatay (After Eathquake)son](https://user-images.githubusercontent.com/120680467/228639815-84a724f3-25a9-47ec-afc3-84490a57e0ed.png)
