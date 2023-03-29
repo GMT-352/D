@@ -1,5 +1,6 @@
 # GMT352 Geographic Information Systems ASSIGNMENT 2
 
+
 ## One Requirement, One Map on SDG #11
 
 
@@ -26,7 +27,13 @@ The main objectives of the project are:
 
 ## • Requirements:
 The requirements of this project are as follows:
-• Collecting, analyzing, and processing relevant data to identify suitable areas for the installation of mobile GSM base stations to prevent communication disruptions after an earthquake. 
-• Using mapping software such as QGIS to identify suitable areas and map the locations of mobile GSM base stations.
-• Procuring the devices, equipment, power sources, and other materials required for the installation of mobile GSM base stations. 
-
+* Collecting, analyzing, and processing relevant data to identify suitable areas for the installation of mobile GSM base stations to prevent communication disruptions after an earthquake.
+* Using mapping software such as QGIS to identify suitable areas and map the locations of mobile GSM base stations.
+* Procuring the devices, equipment, power sources, and other materials required for the installation of mobile GSM base stations.
+* Determining the technical specifications of the mobile GSM base stations to be installed and using devices that meet these specifications.
+* Taking necessary measures for environmental compatibility of the mobile GSM base stations to be installed.
+* Taking necessary security measures and implementing protection measures for the safety of mobile GSM base stations.
+* Ensuring project financing and budget planning.
+* Sharing the project with relevant institutions, companies, and local people and obtaining their approval.
+* Monitoring the progress of the project and reporting the results.
+* Conducting necessary planning and management activities to ensure the sustainability of the project.
