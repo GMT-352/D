@@ -37,3 +37,10 @@ The requirements of this project are as follows:
 * Sharing the project with relevant institutions, companies, and local people and obtaining their approval.
 * Monitoring the progress of the project and reporting the results.
 * Conducting necessary planning and management activities to ensure the sustainability of the project.
+
+## • Data:
+ - Open Street Map
+
+## • Maps:
+![Map of Earthquake](https://user-images.githubusercontent.com/120742291/228494795-8f48bd88-d199-47c5-b512-7a0e9781d048.png)
+
