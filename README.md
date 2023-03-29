@@ -6,7 +6,7 @@
 ## One Requirement, One Map on SDG #11  - Assignment 2
 
 - **Doğa Gerçek/ 21967497** 
-- **Tunahan Çetin/**   
+- **Tunahan Çetin/21833058**   
 - **Nusret Taha Ege/ 21967459**  
 - **Fatma Burcu Arslan/**
 
@@ -50,3 +50,6 @@ The main objectives of the project are:
 
 **Map Produced by Nusret Taha Ege:**
 ![Map of Mobile Cell Towers in Hatay (After Eathquake)son](https://user-images.githubusercontent.com/120680467/228639815-84a724f3-25a9-47ec-afc3-84490a57e0ed.png)
+
+**Map Produced by Tunahan Çetin:**
+![tuna](https://user-images.githubusercontent.com/118597175/228678585-800085f5-4b06-401d-8412-c69467229638.jpeg)
