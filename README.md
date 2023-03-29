@@ -7,7 +7,7 @@
 
 - **Doğa Gerçek/ 21967497** 
 - **Tunahan Çetin/**   
-- **Nusret Taha/**  
+- **Nusret Taha Ege/ 21967459**  
 - **Fatma Burcu Arslan/**
 
 
@@ -48,3 +48,5 @@ The main objectives of the project are:
 **Map Produced by Doğa Gerçek:**
 ![Map of Earthquake](https://user-images.githubusercontent.com/120742291/228494795-8f48bd88-d199-47c5-b512-7a0e9781d048.png)
 
+**Map Produced by Nusret Taha Ege:**
+![Map of Mobile Cell Towers in Hatay (After Eathquake)png](https://user-images.githubusercontent.com/120680467/228600907-c694463e-1b04-41ca-8c0f-bc5f8e38123d.png)
