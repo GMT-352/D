@@ -46,6 +46,6 @@ The requirements of this project are as follows:
  - Open Street Map
 
 ## • Maps:
-Map by Doğa Gerçek:
+**Map Produced by Doğa Gerçek:**
 ![Map of Earthquake](https://user-images.githubusercontent.com/120742291/228494795-8f48bd88-d199-47c5-b512-7a0e9781d048.png)
 
