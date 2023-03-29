@@ -7,7 +7,7 @@
 
 
 ## • A case study (region of interest): 
-### Project of Establishment of Mobile GSMs to Mitigate the Effects of the 6 February Earthquake.
+**Project of Establishment of Mobile GSMs to Mitigate the Effects of the 6 February Earthquake.**
 
 
 ## • Aim and objectives:
@@ -24,4 +24,9 @@ The main objectives of the project are:
 8. Keeping the data obtained in the project accurate and up-to-date and sharing it with relevant institutions.
 9. The goal of this project is to reduce communication interruptions after earthquakes and to quickly and effectively install and operate mobile GSM stations to meet people's communication needs.
 
+## • Requirements:
+The requirements of this project are as follows:
+• Collecting, analyzing, and processing relevant data to identify suitable areas for the installation of mobile GSM base stations to prevent communication disruptions after an earthquake. 
+• Using mapping software such as QGIS to identify suitable areas and map the locations of mobile GSM base stations.
+• Procuring the devices, equipment, power sources, and other materials required for the installation of mobile GSM base stations. 
 
