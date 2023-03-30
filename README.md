@@ -53,3 +53,6 @@ The main objectives of the project are:
 
 **Map Produced by Tunahan Çetin:**
 ![tuna](https://user-images.githubusercontent.com/118597175/228678585-800085f5-4b06-401d-8412-c69467229638.jpeg)
+
+**Map Produced by Fatma Burcu Arslan:**
+![Map](https://user-images.githubusercontent.com/120333987/228695142-92744328-bdc5-4d28-b524-3ca6e1093f4a.png)
