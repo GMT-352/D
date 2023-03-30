@@ -8,7 +8,7 @@
 - **Doğa Gerçek/ 21967497** 
 - **Tunahan Çetin/21833058**   
 - **Nusret Taha Ege/ 21967459**  
-- **Fatma Burcu Arslan/**
+- **Fatma Burcu Arslan/21967296**
 
 
 ## • A case study (region of interest): 
